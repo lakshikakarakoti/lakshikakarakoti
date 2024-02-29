@@ -34,6 +34,21 @@ I'm a passionate Frontend Developer with a love for creating delightful user exp
   <img src="https://github-readme-stats.vercel.app/api?username=lakshikakarakoti&show_icons=true&theme=algolia" alt="GitHub Stats">
 </div>
 
+## 📊 Contribution Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=lakshikakarakoti&theme=github" alt="GitHub Contribution Graph">
+</div>
+
+## 🔥 GitHub Activity Heatmap
+<div align="center">
+  <img src="https://github.com/lakshikakarakoti/lakshikakarakoti/blob/main/assets/heatmap.png" alt="GitHub Activity Heatmap">
+</div>
+
+## 🌟 Repository Stats
+- **Total Repositories:** 15
+- **Total Stars:** 50
+- **Total Forks:** 25
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshikakarakoti&theme=algolia" alt="GitHub Profile Trophy">
