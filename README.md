@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="450px" src="https://github.com/lakshikakarakoti/lakshikakarakoti/blob/main/profile.png" alt="Banner">
+  <img width="450px" src="https://github.com/lakshikakarakoti/lakshikakarakoti/blob/main/banner.png" alt="Banner">
 </div>
 
 # Hey there! I'm Lakshika Karakoti 👋
