@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lakshikakarakoti
+- 👋 Hi, I’m <a href="https://github.com/lakshikakarakoti/">@lakshikakarakoti</a>
 - 👀 I’m interested in Frontend Developement
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
