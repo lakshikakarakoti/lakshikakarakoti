@@ -27,9 +27,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lakshikakarakoti&theme=algolia" alt="GitHub Profile Trophy">
 </div>
 
-## Contribution Graph
-<div align="center">
-  <img src="github_activity.png" alt="GitHub Activity Over Months">
-</div>
 
 ---
