@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/161722593?s=400&u=75ca221726ea4ae780992ad03c376f35ad624c6f&v=4" alt="Banner">
+  <img style="height: 40px; width: 40px; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/161722593?s=400&u=75ca221726ea4ae780992ad03c376f35ad624c6f&v=4" alt="Banner">
 </div>
 
 # Hey there! I'm Lakshika Karakoti 👋
