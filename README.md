@@ -28,6 +28,8 @@
 </div>
 
 ---
+## 📈 Contribution Graph
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=lakshikakarakoti&theme=github" alt="GitHub Activity Graph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikakarakoti&theme=algolia" alt="GitHub Streak Stats">
 </div>
