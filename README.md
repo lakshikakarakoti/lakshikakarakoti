@@ -1,8 +1,8 @@
-- 👋 Hi, I’m <a href="https://github.com/lakshikakarakoti/">@lakshikakarakoti</a>
+- 👋 Hi, I’m <a style="text-decoration: none;" href="https://github.com/lakshikakarakoti/">@lakshikakarakoti</a>
 - 👀 I’m interested in Frontend Developement
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href="mailto:lakshikakarakoti@gmail.com">mail me here</a>.
+- 📫 How to reach me <a style="text-decoration: none;" href="mailto:lakshikakarakoti@gmail.com">mail me here</a>.
 - 😄 Pronouns: She/Her
 
 <!---
