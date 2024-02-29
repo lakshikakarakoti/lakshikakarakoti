@@ -28,4 +28,6 @@
 </div>
 
 ---
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lakshikakarakoti.visitor-badge)
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=lakshikakarakoti&theme=github" alt="GitHub Activity Graph">
+</div>
