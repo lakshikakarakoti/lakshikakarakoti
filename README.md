@@ -27,8 +27,33 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lakshikakarakoti&theme=algolia" alt="GitHub Profile Trophy">
 </div>
 
----
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshikakarakoti&theme=algolia" alt="GitHub Streak Stats">
+  <img src="github_activity.png" alt="GitHub Activity Over Months">
 </div>
+
+---
+## 📈 Contribution Graph (Generated)
+```python
+import matplotlib.pyplot as plt
+
+activity_by_month = {
+    "2022-01": 10,
+    "2022-02": 20,
+    "2022-03": 15,
+    "2024-02": 12  # Additional data
+}
+
+months = list(activity_by_month.keys())
+activity = list(activity_by_month.values())
+
+plt.figure(figsize=(10, 6))
+plt.plot(months, activity, marker='o', linestyle='-')
+plt.title('GitHub Activity Over Months')
+plt.xlabel('Month')
+plt.ylabel('Number of Contributions')
+plt.xticks(rotation=45)
+plt.grid(True)
+plt.tight_layout()
+plt.savefig('github_activity.png')  # Save the plot as an image
+plt.show()
